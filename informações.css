@@ -1,0 +1,32 @@
+body {
+    background-attachment: fixed;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+    top: 0;
+    margin-right: 8em;
+    margin-left: 8em;
+    min-height: 100vh;
+    padding-top:2em;
+}
+
+.titulocomum{
+font-size: 40px;
+    margin: 40px;
+    font-family: "Poppins";
+}
+
+.paragrafo-comum {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-align: justify;
+    }
+
+    p{
+        padding-bottom: 8em;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
